@@ -13,7 +13,7 @@
 
 ![bard-api.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/56156cd6-02b7-4a26-b4af-0311bc80e9b4)
 
-#### 라이브러리 설치!
+#### 라이브러리 설치
 ```text
 pip install bardapi
 ```
@@ -25,7 +25,7 @@ pip install bardapi
 
 ![telegram-api.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/65962797-a6bd-4fd4-9981-2aa1b70827e9)
 
-#### 라이브러리 버전 지정 설치
+#### 라이브러리 설치(버전 지정 필요)
 ```text
 pip install python-telegram-bot==12.8
 ```
