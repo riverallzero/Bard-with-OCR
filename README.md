@@ -41,5 +41,5 @@ pip install python-telegram-bot==12.8
 
 #### install library
 ```text
-pip install azure
+pip install azure.cognitiveservices.vision.computervision
 ```
