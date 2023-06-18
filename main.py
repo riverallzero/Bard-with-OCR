@@ -63,8 +63,7 @@ def reply(update, context):
 
         extracted_text = ",".join(text_results)
 
-        combined_text = f"```{extracted_text}```이건 이미지를 텍스트로 추출한 결과야. 이제 이거에 관한 질문을 할거야." \
-                        f" 너는 ```인식이 완료되었습니다. 질문을 해주세요!```라고만 대답해줘."
+        combined_text = f"```{extracted_text}```이건 이미지를 텍스트로 추출한 결과야. 이제 이거에 관한 질문을 할거야. 너는 ```인식이 완료되었습니다. 질문을 해주세요!```라고만 대답해줘."
 
         response = generate_response(combined_text)
         update.message.reply_text(response)
