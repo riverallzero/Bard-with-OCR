@@ -24,7 +24,7 @@ pip install bardapi
 2. /newbot 입력 후 봇 이름과 아이디 설정
 3. 챗봇이 보내주는 토큰 복사
 
-![telegram-api.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/65962797-a6bd-4fd4-9981-2aa1b70827e9)
+![telegram-api.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/b5a88e86-2dbc-4b7a-8c8c-5d2427547741)
 
 #### install library(version)
 ```text
