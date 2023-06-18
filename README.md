@@ -37,3 +37,9 @@ pip install python-telegram-bot==12.8
 
 ![azure-api.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/f61c1a55-6048-4d26-bbf8-32dcc3df430f)
 ![key-endpoint.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/8b5b167e-ef8d-4a1b-ab0d-dc36d4b8fbc4)
+
+
+#### install library
+```text
+pip install azure
+```
