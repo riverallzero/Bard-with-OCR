@@ -9,9 +9,8 @@
 ## Setting
 
 ### Bard API key
-1. https://bard.google.com 사이트 접속 
-2. 개발자도구 - Application - Storage - Cookies - https://bard.google.com 클릭
-3. Name이 "_Secure-1PSID"인 Value 복사
+1. 개발자도구 - Application - Storage - Cookies - https://bard.google.com 클릭
+2. Name이 "_Secure-1PSID"인 Value 복사
 
 ![bard-api.png](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/56156cd6-02b7-4a26-b4af-0311bc80e9b4)
 
