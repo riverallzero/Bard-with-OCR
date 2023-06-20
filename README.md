@@ -1,6 +1,7 @@
 # 💬 Bard-with-OCR
 텔레그램 봇을 이용한 채팅형태의 <strong>Bard</strong><br/>
-<strong>OCR</strong>을 이용해 텍스트 기반의 이미지를 첨부한 대화도 가능하다.
+<strong>OCR</strong>을 이용해 텍스트 기반의 이미지를 첨부한 대화도 가능하다.<br/>
+본 서비스는 <strong>무료</strong>로 이용 가능하다.
 
 ## Chat Result
 ![기말_시연결과_202110065_강다영](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/82fedc6a-aaec-4bdc-afac-52af1defd4bc)
