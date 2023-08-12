@@ -4,8 +4,7 @@
 본 서비스는 <strong>무료</strong>로 이용 가능하다.
 
 ## Chat Result
-![1](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/df1314b9-78dc-4194-96d6-e7098fdce8bc)
-
+![video](https://github.com/riverallzero/Bard-with-OCR/assets/93754504/f35ed32c-03c8-435d-83ee-958c92e51cd7)
 
 ## Setting
 
