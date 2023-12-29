@@ -1,5 +1,5 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-from bardapi import Bard, SESSION_HEADERS
+import bardapi
 import os
 
 from azure.cognitiveservices.vision.computervision import ComputerVisionClient
@@ -7,14 +7,8 @@ from azure.cognitiveservices.vision.computervision.models import OperationStatus
 from msrest.authentication import CognitiveServicesCredentials
 import time
 
-session = requests.Session()
-token = '__Secure_1PSID_value'
-session.cookies.set('__Secure-1PSID', '__Secure_1PSID_value')
-session.cookies.set('__Secure-1PSIDCC', '__Secure_1PSIDCC_value')
-session.cookies.set('__Secure-1PSIDTS', '__Secure_1PSIDTS_value')
-session.headers = SESSION_HEADERS
-
-bard = Bard(token=token, session=session)
+os.environ["_BARD_API_KEY"] = "__Secure-1PSID_value"
+bard = bardapi.core.Bard()
 
 azure_cv_key = "azure_computer_vision_api_key"
 azure_cv_endpoint = "azure_computer_vision_endpoint"
