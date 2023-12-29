@@ -9,8 +9,8 @@ Bard + Azure(computer vision) + Telegram
 ### Bard
 https://bard.google.com
 1. F12 - Application - Storage - Cookies - https://bard.google.com
-2. copy "_Secure-1PSID"'s Value
-3. ```line 10, app.py```
+2. copy ```__Secure_1PSID``` & ```__Secure_1PSIDCC``` & ```__Secure_1PSIDTS``` value
+3. ```line 11~14, app.py```
 
 ![](asset/bard-api.png)
 
